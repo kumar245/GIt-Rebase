@@ -10,8 +10,8 @@
     <ImageView
         android:id="@+id/image1"
         android:layout_width="0dp"
-        android:layout_height="170dp"
-        android:layout_marginBottom="8dp"
+        android:layout_height="10dp"
+        android:layout_marginBottom="2dp"
         android:layout_marginTop="8dp"
         android:src="@color/cardview_dark_background"
         app:layout_constraintBottom_toBottomOf="parent"
